@@ -18,6 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
+
 msgid "!Bang Search Shortcuts"
 msgstr "!Bang Arama Kısayolları"
 
@@ -165,7 +166,7 @@ msgid "Add DuckDuckGo to %s"
 msgstr "DuckDuckGo'yu %s'a ekle"
 
 #. https://duckduckgo.com/search_box near the top
-#. e.g.: Add a DuckDuckGo search box to your site! 
+#. e.g.: Add a DuckDuckGo search box to your site!
 msgid "Add a %s search box to your site!"
 msgstr "Sitenize %s arama kutusu ekleyin!"
 
@@ -276,7 +277,7 @@ msgstr "Hareketli GIF"
 msgid "Answer"
 msgstr "Cevap"
 
-#. In feedback page, first box. https://duckduckgo.com/feedback 
+#. In feedback page, first box. https://duckduckgo.com/feedback
 msgid "Answers to most DuckDuckGo questions, like:"
 msgstr "DuckDuckGo üzerine sorulan sorulara yanıtlar, örneğin:"
 
@@ -343,7 +344,7 @@ msgstr "Avusturya"
 #. http://i.imgur.com/DIzKQRl.png
 msgctxt "settings"
 msgid "Auto-Suggest"
-msgstr "Otomatik Önerme"
+msgstr "Oto-Öner"
 
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
@@ -370,8 +371,8 @@ msgstr "Arkaplan:"
 msgid "Bang category"
 msgstr "Bang kategorisi"
 
-#. in duckduckgo.com/newbang in the error message 
-#. e.g.: 
+#. in duckduckgo.com/newbang in the error message
+#. e.g.:
 #. The following required fields were not filled:
 #. Bang command
 #. Category
@@ -381,7 +382,7 @@ msgid "Bang command"
 msgstr "Bang komutu"
 
 #. https://duckduckgo.com/newbang
-#. e.g.: Bang command, e.g. duckduckgo (usually is domain name, e.g. nytimes) 
+#. e.g.: Bang command, e.g. duckduckgo (usually is domain name, e.g. nytimes)
 msgid "Bang command, e.g. %s (usually is domain name, e.g. %s)"
 msgstr "Bang komutu, örn. %s (genellikle alan adıdır, örn. %s)"
 
@@ -396,7 +397,7 @@ msgstr "Bang komutu, örn. %s (genellikle alan adıdır, örn. %s)"
 #. Subcategory
 msgctxt "Newbang"
 msgid "Bang url"
-msgstr "Bang linki"
+msgstr "Bang bağlantısı"
 
 #. https://duckduckgo.com/newbang
 #. The following required fields were not filled:
@@ -410,11 +411,11 @@ msgid "Bang url"
 msgstr "Yanlış bağlantı."
 
 #. https://duckduckgo.com/newbang
-#. e.g.: Bang url, e.g. http://duckduckgo.com/?q={{{s}}} 
+#. e.g.: Bang url, e.g. http://duckduckgo.com/?q={{{s}}}
 msgid "Bang url, e.g. %s"
-msgstr "Bang linki, örn. %s"
+msgstr "Bang bağlantısı, örn. %s"
 
-#. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang 
+#. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang
 msgid "Bangs"
 msgstr "Kestirmeler"
 
@@ -470,10 +471,10 @@ msgstr "Reklam için takip edenleri blokla"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Blocks trackers on websites you visit"
-msgstr ""
+msgstr "Ziyaret ettiğiniz sitelerdeki takip edicileri engeller"
 
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #. The color blue
 msgid "Blue"
@@ -616,16 +617,16 @@ msgctxt "settings"
 msgid "Changes the language across the entire site"
 msgstr "Site genelinin dilini değiştir"
 
-#. http://i.imgur.com/f1bLTY1.png 
-#. Description for "Result Title Color" which changes the color of the results. 
+#. http://i.imgur.com/f1bLTY1.png
+#. Description for "Result Title Color" which changes the color of the results.
 msgctxt "settings"
 msgid "Changes the title link color for each result"
-msgstr "Sonuçtaki başlıkların link rengini değiştir"
+msgstr "Sonuçtaki başlıkların bağlantı rengini değiştir"
 
 #. http://i.imgur.com/5IQda6g.png
 msgctxt "settings"
 msgid "Changes the title link font for each result"
-msgstr "Sonuçtaki başlıkların fontunu değiştir"
+msgstr "Sonuçtaki başlıkların yazı tipini değiştir"
 
 #. http://i.imgur.com/auITACf.png
 msgctxt "settings"
@@ -721,8 +722,8 @@ msgid ""
 "Click %sEdit > Preferences%s (on Windows) %sSeaMonkey > Preferences%s (on "
 "Mac)"
 msgstr ""
-"%sDüzenle > Özellikler%s (Windows için) %sSeaMonkey > Özellikler%s (Mac "
-"için) sekmesine tıkla."
+"%sDüzenle > Özellikler%s (Windows için) %sSeaMonkey > Özellikler%s (Mac için)"
+" sekmesine tıkla."
 
 msgid "Click %sHere%s to add us as a search engine"
 msgstr "Bizi arama motoru olarak eklemek için %sHere%s'a tıklayın."
@@ -810,7 +811,7 @@ msgid "Click the Expand Icon."
 msgstr ""
 
 msgid "Click the Search Engine Icon in the Address Bar."
-msgstr ""
+msgstr "Adres Çubuğundaki Arama Motoru Simgesine tıklayın."
 
 msgid "Click the arrow to the right of the %shome icon%s"
 msgstr "%sAna Sayfa%s tuşunun sağındaki ok işaretine tıklayın"
@@ -844,7 +845,7 @@ msgstr "Pencereyi kapat."
 msgid "Closed"
 msgstr "Kapalı"
 
-#. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud. 
+#. Title for the bottom part of  the <a href="https://duckduckgo.com/settings.html">main settings page</a> about saving anonymously in the cloud.
 msgid "Cloud Save"
 msgstr "Bulut kayıt"
 
@@ -864,7 +865,7 @@ msgctxt "cloudsave"
 msgid "Cloud Save Enabled"
 msgstr "Bulut Kaydetme Aktif"
 
-#. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.  
+#. Self informative <em>Cloud Save FAQ</em> title for the FAQ about how your settings data can be stored anonymously.
 msgctxt "cloudsave"
 msgid "Cloud Save FAQ"
 msgstr "Bulut Depolama SSS"
@@ -906,7 +907,7 @@ msgstr "Renkler"
 msgid "Comics"
 msgstr "Karikatür"
 
-#. When suggesting a !newbang in the <a href="https://duckduckgo.com/newbang.html">!newbang page</a>, last field is a free text one for adding <em>comments</em>. This is the label for this field. 
+#. When suggesting a !newbang in the <a href="https://duckduckgo.com/newbang.html">!newbang page</a>, last field is a free text one for adding <em>comments</em>. This is the label for this field.
 msgid "Comments"
 msgstr "Yorumlar"
 
@@ -930,8 +931,8 @@ msgctxt "theme"
 msgid "Contrast"
 msgstr "Kontrast"
 
-#. http://i.imgur.com/G36h64l.png 
-#. This setting controls the width of the search results: 
+#. http://i.imgur.com/G36h64l.png
+#. This setting controls the width of the search results:
 #. http://i.imgur.com/CoVquLr.png
 #. http://i.imgur.com/DiQq2Ll.png
 msgctxt "settings"
@@ -982,7 +983,7 @@ msgid "Custom"
 msgstr "Özel"
 
 #. Custom --> 'customized'
-#. A setting that *you* choose and is not a default. 
+#. A setting that *you* choose and is not a default.
 msgctxt "settingsvalue"
 msgid "Custom"
 msgstr "Özelleştirme"
@@ -997,7 +998,7 @@ msgstr "Kişisel %s"
 
 msgctxt "settings"
 msgid "Customize DuckDuckGo"
-msgstr ""
+msgstr "DuckDuckGo'yu Özelleştir"
 
 msgid "Czech Republic"
 msgstr "Çek Cumhuriyeti"
@@ -1196,7 +1197,7 @@ msgid "E"
 msgstr "Doğu"
 
 #. Stuff explaining <em>how does passphrase generation work</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid ""
@@ -1207,13 +1208,13 @@ msgstr ""
 "kelimelerin makul derecede büyük bir listesini alırız."
 
 #. Form field for your email ;)
-#. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>. 
+#. From <a href="https://duckduckgo.com/newbang.html ">new !bang page</a> and <a href="https://duckduckgo.com/feedback.html">feedback page</a>.
 msgid "Email"
 msgstr "E-posta"
 
 msgctxt "new tab page"
 msgid "Enable Most Visited Sites"
-msgstr ""
+msgstr "En Çok Ziyaret Edilen Siteleri Etkinleştir"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/fUS6WAi.png
@@ -1231,12 +1232,12 @@ msgstr "Bağlantıları Şifrele"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Encrypts connections when possible"
-msgstr ""
+msgstr "Mümkün olduğunda bağlantıları şifreler"
 
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "%shttps://duckduckgo.com%s'a Gir!"
 
-#. Click to expand the Cloud Save box: http://i.imgur.com/1OudbYX.png 
+#. Click to expand the Cloud Save box: http://i.imgur.com/1OudbYX.png
 #. then locate the text here: http://i.imgur.com/xisuMjL.png
 msgctxt "cloudsave"
 msgid ""
@@ -1442,7 +1443,7 @@ msgid "Get Started at Duck.com"
 msgstr "Duck.com'da başlayın."
 
 msgid "Get Web links"
-msgstr "Web linklerini getirin"
+msgstr "Web bağlantılarını alın"
 
 msgid "Get the non-JS version %s"
 msgstr "%s için JS olmayan versiyonu görüntüleyin"
@@ -1536,15 +1537,16 @@ msgid "Help Spread DuckDuckGo"
 msgstr "DuckDuckGo'yu Yaygınlaştırmaya Yardım Edin"
 
 msgid "Help Spread Privacy"
-msgstr "Gizlilik Yayınları Yardımı"
+msgstr "Gizliliği Yaymakta Yardımcı Ol"
 
 msgctxt "SERP footer content"
 msgid "Help us raise the standard of trust online."
-msgstr "Online güven standartını yükseltmemize yardımcı olun."
+msgstr "Çevrimiçi güven standartını yükseltmemize yardımcı olun."
 
 msgctxt "showcase_spread"
 msgid "Help your friends and family join the Duck Side!"
-msgstr "Arkadaşlarınızın ve ailenizin Duck Side'a katılmalarına yardımcı olun!"
+msgstr ""
+"Arkadaşlarınızın ve ailenizin Ördek Tarafına katılmalarına yardımcı olun!"
 
 msgctxt "showcase_aria_dropdown"
 msgid "Here are some things that we made that you might like."
@@ -1553,13 +1555,13 @@ msgstr "İşte beğeneceğinizi düşündüğümüz bazı şeyler"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Here's what it does:"
-msgstr ""
+msgstr "İşte bunları yapar:"
 
 msgctxt "new tab page"
 msgid "Hide Most Visited Sites"
-msgstr ""
+msgstr "En Çok Ziyaret Edilen Sayfaları Gizler"
 
-#. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png  
+#. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png
 msgctxt "settings"
 msgid "Hide pass phrase"
 msgstr "Parolayı gizle"
@@ -1599,21 +1601,21 @@ msgid "How We Are Profitable"
 msgstr "Nasıl Kar Ediyoruz?"
 
 #. Title for the stuffs explaining <em>how to change your passphrase</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How do I change my passphrase?"
 msgstr "Parolamı nasıl değiştiririm?"
 
 #. Title for the stuffs explaining <em>how the cloud save works</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does it work?"
 msgstr "Nasıl çalışır?"
 
 #. Title for the stuffs explaining <em>how does passphrase generation work</em>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How does passphrase generation work?"
@@ -1621,7 +1623,7 @@ msgstr "Parola nasıl üretiliyor?"
 
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. Title for a small paragraph about how DuckDuckGo doesn't store <strong>ANY</strong> personal informations (including your username). How are you BTW for asking this???
-#.
+#. 
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "How is it anonymous?"
@@ -1635,7 +1637,7 @@ msgid "Hungary"
 msgstr "Macaristan"
 
 #. Title for the stuff explaining <em>how DuckDuckGo <strong>REALLY doesn't</strong> track you</em>.
-#. From the <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From the <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "I forgot my passphrase. Can you recover it?"
@@ -1673,9 +1675,9 @@ msgid "If you still want to support us, %shelp spread DuckDuckGo%s"
 msgstr ""
 "Hala bizi desteklemek istiyorsanız, %sDuckDuckGo'yu yaymamıza yardım edin%s"
 
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. Message displayed at the bottom of the page, informing you that you can't use the settings page without Java Script activated into your browser. <em>%s</em> and <em>%s</em> are respectively for (raw) <em>HTML</em> and <em>lite</em> versions.
-#.
+#. 
 msgid ""
 "If you want to use DuckDuckGo without JavaScript, please use our %s or %s "
 "versions."
@@ -1717,7 +1719,7 @@ msgstr ""
 "bizim sunucumuz üzerinden aktarmamız gerekebilir. %sDaha Fazla Bilgi%s."
 
 #. Explanations about <em>how does passphrase generation work</em> paragraph.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid ""
@@ -1731,7 +1733,7 @@ msgid "In the drop down select %sDuckDuckGo%s!"
 msgstr "Açılır menüden %sDuckDuckGo%s'yu seç!"
 
 #. Explanations for <em>how does the settings cloud save works</em> paragraph.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid ""
@@ -1771,7 +1773,7 @@ msgstr "Endonezya (en)"
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Infinite Scroll"
-msgstr "Otomatik-Yükleme"
+msgstr "Sonsuz Sürükleme"
 
 #. This setting used to be called 'Auto-Load Images'
 #. Please update this translation if it no longer applies
@@ -1780,7 +1782,7 @@ msgid "Infinite Scroll for Images"
 msgstr "Resimleri Otomatik Olarak Yükle"
 
 msgid "Install"
-msgstr "Kur"
+msgstr "Yükle"
 
 msgctxt "homepage onboarding"
 msgid "Install DuckDuckGo"
@@ -1792,7 +1794,7 @@ msgstr "DuckDuckGo'yu Yükle"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
 msgid "Install DuckDuckGo Safari Extension?"
-msgstr "Safari için DuckDuckGo eklentisini yükle!"
+msgstr "Safari için DuckDuckGo eklentisini yükle?"
 
 #. in https://duckduckgo.com/api/, topmost header
 msgid "Instant Answer API"
@@ -1817,13 +1819,13 @@ msgstr "Arayüz Ayarları "
 
 msgctxt "homepage onboarding"
 msgid "Invite friends to the Duck Side!"
-msgstr " Duck Side'a arkadaşlarını davet et!"
+msgstr "Ördek Tarafına arkadaşlarını davet et!"
 
 msgid "Ireland"
 msgstr "İrlanda"
 
 #. Title for information about this question. The answer is only <strong>YES</strong>.
-#. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
+#. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
 #. You have to click the "What is this?" link to display it.
 msgctxt "cloudsave"
 msgid "Is deleted data really deleted?"
@@ -1861,7 +1863,7 @@ msgstr "Ürünler"
 msgid "Japan"
 msgstr "Japonya"
 
-#. Instant Answer Tab Name (below the search box, above the results) 
+#. Instant Answer Tab Name (below the search box, above the results)
 msgid "Jobs"
 msgstr "İşler"
 
@@ -1892,7 +1894,7 @@ msgstr "Klavye kısayolları"
 msgid "Korea"
 msgstr "Kore"
 
-#. http://i.imgur.com/L74c87B.png 
+#. http://i.imgur.com/L74c87B.png
 #. Adjusts the displayed language of DuckDuckGo (translations)
 msgctxt "settings"
 msgid "Language"
@@ -1918,8 +1920,8 @@ msgctxt "size"
 msgid "Larger"
 msgstr "Daha büyük"
 
-#. http://i.imgur.com/xdSUFar.png 
-#. In the dropdown menu for, "Font Size" 
+#. http://i.imgur.com/xdSUFar.png
+#. In the dropdown menu for, "Font Size"
 msgctxt "settingsvalue"
 msgid "Largest"
 msgstr "En Büyük"
@@ -2001,7 +2003,7 @@ msgstr "4 dakikadan kısa"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Lets you search anonymously with DuckDuckGo"
-msgstr ""
+msgstr "DuckDuckGo ile anonim olarak aramanızı sağlar"
 
 #. Discontinued, don't translate
 msgid "Light blue"
@@ -2035,7 +2037,7 @@ msgstr "Yükle"
 msgid "Load Cloud Settings"
 msgstr "Bulut ayarlarını yükle"
 
-#. After clicking, "Load Settings" this appears as the title of that section: http://i.imgur.com/rJseWa6.png 
+#. After clicking, "Load Settings" this appears as the title of that section: http://i.imgur.com/rJseWa6.png
 msgctxt "cloudsave"
 msgid "Load Cloud Settings"
 msgstr "Bulut Ayarları Yükle"
@@ -2111,7 +2113,7 @@ msgctxt "feedback form"
 msgid "Maps / Location Info"
 msgstr "Haritalar / Konum Bilgisi"
 
-#. In creating a new bang 
+#. In creating a new bang
 #. reference: https://duckduckgo.com/newbang
 msgid "Mark where the search goes with {{{s}}}"
 msgstr "Aramanın {{{s}}} ile nereye gittiğini işaretle"
@@ -2155,7 +2157,7 @@ msgstr "Orta"
 
 msgctxt "settings"
 msgid "Mobile Instructions (not displayed on settings page)"
-msgstr ""
+msgstr "Mobil Yönergeleri (ayarlar sayfasında gösterilmez)"
 
 msgctxt "safe search"
 msgid "Moderate"
@@ -2289,7 +2291,7 @@ msgstr "Hollanda"
 
 msgctxt "settings"
 msgid "New Tab Page Most Visited Sites"
-msgstr ""
+msgstr "Yeni Sekme Sayfası En Çok Ziyaret Edilen Siteler"
 
 msgid "New Zealand"
 msgstr "Yeni Zelanda"
@@ -2541,15 +2543,15 @@ msgctxt "settingsvalue"
 msgid "Open on third-party site"
 msgstr "3. parti sitelerinde aç"
 
-#. http://i.imgur.com/iCNwHqR.png  
-#. This setting controls how results open when you click on them. 
+#. http://i.imgur.com/iCNwHqR.png
+#. This setting controls how results open when you click on them.
 msgctxt "settings"
 msgid "Opens results in new windows/tabs"
 msgstr "Sonuçları yeni pencere/tab olarak aç"
 
 msgctxt "feedback form"
 msgid "Optional"
-msgstr ""
+msgstr "İsteğe bağlı"
 
 msgctxt "maps_maps_module"
 msgid "Or did you mean:"
@@ -2667,7 +2669,7 @@ msgstr "Geçen Yıl"
 
 msgctxt "settings"
 msgid "Personalize DuckDuckGo"
-msgstr ""
+msgstr "DuckDuckGo'yu kişiselleştir"
 
 msgid "Peru"
 msgstr ""
@@ -2806,14 +2808,14 @@ msgid "Privacy Newsletter"
 msgstr "Gizlilik Bülteni"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Gizlilik Politikası"
 
 #. https://duckduckgo.com/params. it is a bold header
 msgid "Privacy Settings"
 msgstr "Gizlilik ayarları"
 
 msgid "Privacy, simplified."
-msgstr "Gizlilik, basitleştirildi."
+msgstr "Basitleştirilmiş gizlilik."
 
 msgid "Private Search"
 msgstr "Gizli Arama"
@@ -2838,11 +2840,11 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Prompt me to customize my DuckDuckGo experience."
-msgstr ""
+msgstr "DuckDuckGo deneyimimi özelleştirmemi iste."
 
 msgctxt "settings"
 msgid "Prompt me to personalize my DuckDuckGo experience."
-msgstr ""
+msgstr "DuckDuckGo deneyimimi kişiselleştirmemi iste."
 
 msgctxt "SERP footer content"
 msgid "Protect Your Devices"
@@ -2915,7 +2917,7 @@ msgid "Red"
 msgstr "Kırmızı"
 
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (when necessary)"
@@ -2927,13 +2929,13 @@ msgstr "Tekrar yönlendir:"
 msgid "Region"
 msgstr "Bölge"
 
-#. http://i.imgur.com/G0kt3wS.png 
-#. Setting to boost results for your region. 
+#. http://i.imgur.com/G0kt3wS.png
+#. Setting to boost results for your region.
 msgctxt "settings"
 msgid "Region"
 msgstr "Bölge"
 
-#. This text is OLD and not in use. 
+#. This text is OLD and not in use.
 #. IF translated, it's meant to refer to the Setting which controls Region: http://i.imgur.com/aYsZwbp.png
 msgid "Region Setting"
 msgstr "Bölge Ayarı"
@@ -2969,14 +2971,14 @@ msgctxt "cloudsave"
 msgid "Reset All Settings"
 msgstr "Tüm Ayarları Sıfırla"
 
-#. http://i.imgur.com/ktBWbzB.png 
-#. Resets your configuration 
+#. http://i.imgur.com/ktBWbzB.png
+#. Resets your configuration
 msgctxt "settings"
 msgid "Reset All Settings"
 msgstr "Tüm Ayarları Sıfırla"
 
 #. http://i.imgur.com/t65r7D9.png
-#. changes the color of the result descriptions like this: http://i.imgur.com/UOdZYpf.png 
+#. changes the color of the result descriptions like this: http://i.imgur.com/UOdZYpf.png
 msgctxt "settings"
 msgid "Result Description Color"
 msgstr "Sonucun Açıklama Rengi"
@@ -2990,12 +2992,12 @@ msgctxt "settings"
 msgid "Result Highlight Color"
 msgstr "Sonuçların Başlık Rengi"
 
-#. in https://duckduckgo.com/params in the top. it is the first header 
+#. in https://duckduckgo.com/params in the top. it is the first header
 msgid "Result Settings"
 msgstr "Arama Sonuçları"
 
 #. http://i.imgur.com/M5H3oSv.png
-#. Changes the color of the results. 
+#. Changes the color of the results.
 msgctxt "settings"
 msgid "Result Title Color"
 msgstr "Sonucun Başlık Rengi"
@@ -3036,8 +3038,8 @@ msgctxt "settings"
 msgid "Results Appearance"
 msgstr "Sonuç Görünümü"
 
-#. http://i.imgur.com/OODM0bR.png 
-#. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png 
+#. http://i.imgur.com/OODM0bR.png
+#. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png
 msgctxt "theme"
 msgid "Retro"
 msgstr ""
@@ -3115,7 +3117,7 @@ msgstr "Ayarlarını anonim olarak buluta kaydet"
 
 msgctxt "SERP footer content"
 msgid "Say Goodbye To Google"
-msgstr "Google'la Veda Edin"
+msgstr "Google'a Veda Edin"
 
 #. Needs Context
 msgid "Score"
@@ -3269,7 +3271,7 @@ msgstr "%sTercihler%s'i seç."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch Engine%s"
-msgstr ""
+msgstr "%sArama Motorunu%s seç"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch engine%s, then %sOthers...%s"
@@ -3345,8 +3347,8 @@ msgctxt "feedback form"
 msgid "Settings"
 msgstr "Ayarlar"
 
-#. http://i.imgur.com/uzNLMwE.png 
-#. Your DuckDuckGo settings as JSON parameters (https://en.wikipedia.org/wiki/JSON) 
+#. http://i.imgur.com/uzNLMwE.png
+#. Your DuckDuckGo settings as JSON parameters (https://en.wikipedia.org/wiki/JSON)
 msgctxt "settings"
 msgid "Settings in JSON:"
 msgstr "JSON olarak ayarlar:"
@@ -3368,8 +3370,8 @@ msgstr "Kısa"
 msgid "Shortcuts to other sites to search off DuckDuckGo"
 msgstr "DuckDuckGo’yu aramak için diğer sitelere giden kısayollar"
 
-#. http://i.imgur.com/msbR8Xk.png 
-#. Clicking will show you your Settings as a URL and JSON like this http://i.imgur.com/59sqEFU.png 
+#. http://i.imgur.com/msbR8Xk.png
+#. Clicking will show you your Settings as a URL and JSON like this http://i.imgur.com/59sqEFU.png
 msgctxt "setting"
 msgid "Show Bookmarklet and Settings Data"
 msgstr "Sık Kullanılanlar ve Ayarlar Bilgilerini Göster"
@@ -3388,7 +3390,7 @@ msgstr "Daha Fazla Göster"
 
 msgctxt "new tab page"
 msgid "Show Most Visited Sites"
-msgstr ""
+msgstr "En Çok Ziyaret Edilen Siteleri Göster"
 
 msgctxt "settings"
 msgid "Show favicons for each result"
@@ -3406,7 +3408,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Show most visited links on new tab page"
-msgstr ""
+msgstr "Yeni sekme sayfasında en çok ziyaret edilen siteleri göster"
 
 msgctxt "settings"
 msgid "Show occasional reminders to add DuckDuckGo to your browser"
@@ -3463,7 +3465,7 @@ msgstr "Web sonuçlarını göster"
 
 msgctxt "settings"
 msgid "Show welcome message on top of the search results page"
-msgstr ""
+msgstr "Sonuçlar sayfasının üstünde hoşgeldin mesajı göster"
 
 #. In the Instant Answers box -> viewing images -> the sentence over the first image. Eg. https://duckduckgo.com/?q=duckduckgo&ia=images
 msgctxt "visible"
@@ -3486,7 +3488,7 @@ msgstr "Göster"
 #. Discontinued, don't translate
 msgctxt "settings"
 msgid "Shows the search button background"
-msgstr "Arama butonunu arkaplanda göster"
+msgstr ""
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Similar"
@@ -3499,8 +3501,8 @@ msgctxt "settings"
 msgid "Site Icons"
 msgstr "Site Simgeleri"
 
-#. in duckduckgo.com/newbang in the error message 
-#. e.g.: 
+#. in duckduckgo.com/newbang in the error message
+#. e.g.:
 #. The following required fields were not filled:
 #. Site name
 #. Bang command
@@ -3546,7 +3548,7 @@ msgid "Something went wrong saving to the server, please try again."
 msgstr "Sunucuya kaydedilirken bazı hatalar oluştu, lütfen tekrar deneyiniz."
 
 msgid "Sorry, no results here."
-msgstr "Üzgünüz, herhangi bir sonuca ulaşılamadı."
+msgstr "Üzgünüz, burada herhangi bir sonuç yok."
 
 #. https://duckduckgo.com/params under Interface Settings.in the end. It is a header
 msgid "Source:"
@@ -3578,7 +3580,7 @@ msgid "Standard Definition"
 msgstr "Standart Çözünürlük"
 
 msgid "Start Searching"
-msgstr "Aramaya Başla"
+msgstr "Aramaya Başlayın"
 
 msgctxt "showcase_bangs"
 msgid "Start Using Bangs"
@@ -3716,7 +3718,7 @@ msgctxt "bangcat"
 msgid "Tech"
 msgstr "Teknoloji"
 
-#. An option under "Theme" http://i.imgur.com/fFIMtgl.png 
+#. An option under "Theme" http://i.imgur.com/fFIMtgl.png
 #. changes the look of DuckDuckGo to a Terminal, like this: http://i.imgur.com/BDN8Tfm.png
 msgctxt "theme"
 msgid "Terminal"
@@ -3745,6 +3747,10 @@ msgid ""
 "link is at increased risk of being intercepted by a third party. In rare "
 "cases this includes passwords, or payment details."
 msgstr ""
+"Bu demek oluyorki cihazınız ve web sitesinin arkasındaki bağlantının "
+"arasında gönderilen bilgilerin üçüncü bir parti tarafından yolu kesilmesinin "
+"şansı yüksek. Bazi nadir durumlarda bunlar şifreler, ve ödeme ayrıntılarını "
+"içerebilir."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/elru00b.png
@@ -3780,7 +3786,7 @@ msgctxt "settings"
 msgid "The rendering method to use for interactive maps"
 msgstr "Etkileşimli haritalar için kullanılacak oluşturma yöntemi"
 
-#. For rotating carousel on the home page. [ See screenshot: http://i.imgur.com/nfMmIe1.png ] 
+#. For rotating carousel on the home page. [ See screenshot: http://i.imgur.com/nfMmIe1.png ]
 msgctxt "frontpage"
 msgid "The search engine that doesn't track you."
 msgstr "Seni takip etmeyen arama motoru."
@@ -3841,6 +3847,8 @@ msgid ""
 "This list is generated by your browser. DuckDuckGo does not have access to "
 "your most visited sites."
 msgstr ""
+"Bu liste tarayıcınız tarafından oluşturulmuştur. DuckDuckGo'nun en çok "
+"ziyaret edilen sitelere erişimi yoktur."
 
 #. Used for browsers not meeting certain requirements.
 msgid "This page requires %s"
@@ -3915,7 +3923,7 @@ msgstr "Bunu dene: %s"
 
 msgctxt "new user poll"
 msgid "Trying DuckDuckGo again"
-msgstr "DuckDuckGo'yu yeniden deneyin"
+msgstr "DuckDuckGo'yu yeniden denemek"
 
 msgid "Turkey"
 msgstr "Türkiye"
@@ -3952,8 +3960,8 @@ msgstr "ABD birimleri (Pound, Fit, Fahrenhayt)"
 
 #. I haven't Translated the links under %s because that will come from Chrome Browser...
 msgid ""
-"Under %sOn startup%s, click %sOpen a specific page%s then click %sSet Pages"
-"%s."
+"Under %sOn startup%s, click %sOpen a specific page%s then click %sSet "
+"Pages%s."
 msgstr ""
 "%sBaşlarken%s altındaki, %sBelirli bir sayfa aç%s'tan sonra %sSayfaları "
 "Ayarla%s'e tıkla."
@@ -3961,8 +3969,8 @@ msgstr ""
 msgid ""
 "Under %sOn startup%s, select %sHomepage%s and enter: https://duckduckgo.com"
 msgstr ""
-"\"Başlangıçta\" başlığı %saltından%s, \"Anasayfa\"yı%s seçin%s ve şunu "
-"girin: https://duckduckgo.com"
+"\"Başlangıçta\" başlığı %saltından%s, \"Anasayfa\"yı%s seçin%s ve şunu girin:"
+" https://duckduckgo.com"
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Under %sOpen with%s select %sA specific page or pages%s"
@@ -3991,8 +3999,8 @@ msgid "Under Search click the drop down and select %sDuckDuckGo%s"
 msgstr ""
 "Arama başlığı altındaki açılır menüye tıklayın ve %sDuckDuckGo%s'yu seçin."
 
-#. http://i.imgur.com/7M5ogIs.png 
-#. If, "On" --it will add an underline to result titles like this: http://i.imgur.com/VRFC6VQ.png 
+#. http://i.imgur.com/7M5ogIs.png
+#. If, "On" --it will add an underline to result titles like this: http://i.imgur.com/VRFC6VQ.png
 #. If, "Off" --there will be no underline, like this: http://i.imgur.com/6MyezXn.png
 msgctxt "settings"
 msgid "Underline the title link for each result"
@@ -4044,7 +4052,7 @@ msgstr ""
 #. Discontinued, don't translate
 msgctxt "settings"
 msgid "Use encrypted version of the site"
-msgstr "Sitenin şifreli sürümünü kullan"
+msgstr "Sitenin şifrelenmiş sürümünü kullan"
 
 msgid "Use in Firefox"
 msgstr "Firefox'ta Kullan"
@@ -4095,7 +4103,7 @@ msgstr "Batı"
 
 msgctxt "size"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Arka plan"
 
 #. in https://duckduckgo.com/feedback under "DuckDuckHack" header
 msgid "Want to develop an instant answer?"
@@ -4110,7 +4118,7 @@ msgstr "Youtube'da İzle"
 
 msgctxt "SERP footer content"
 msgid "We Protect Your Privacy"
-msgstr ""
+msgstr "Gizliliğinizi Koruyoruz"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then in the cloud save box - http://i.imgur.com/vBsbibl.png
@@ -4157,7 +4165,7 @@ msgstr "Kişisel bilgilerinizi saklamayız veya sizi takip etmeyiz. Asla."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal info."
-msgstr "Kişisel bilgilerinizi saklamıyoruz"
+msgstr "Kişisel bilgilerinizi depolamayız."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal information."
@@ -4165,7 +4173,7 @@ msgstr "Kişisel bilgilerinizi depolamayız."
 
 msgctxt "SERP footer content"
 msgid "We don't store your search history or follow you around the web."
-msgstr ""
+msgstr "Arama geçmişinizi depolamıyor ve sizi internette takip etmiyoruz."
 
 msgctxt "SERP footer content"
 msgid "We don't track you, but others do."
@@ -4244,11 +4252,11 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
-msgstr "Duck Side'da olduğun için onur duyuyoruz"
+msgstr "Ördek Tarafında olduğun için onur duyuyoruz"
 
 msgctxt "SERP footer content"
 msgid "We've got some more links for you!"
-msgstr "Senin için biraz daha bağlantımız var!"
+msgstr "Senin için birkaç bağlantımız var!"
 
 #. Instant Answer Tab Name
 msgid "Weather"
@@ -4260,7 +4268,7 @@ msgstr "Web Bağlantıları"
 
 msgctxt "settings"
 msgid "Welcome Message"
-msgstr ""
+msgstr "Hoşgeldin Mesajı"
 
 msgctxt "new user poll"
 msgid "Welcome back!"
@@ -4268,7 +4276,7 @@ msgstr "Yeniden hoş geldin!"
 
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
-msgstr "Duck Side'a hoş geldiniz!"
+msgstr "Ördek Tarafına hoş geldiniz!"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -4372,7 +4380,7 @@ msgstr "Evet"
 
 msgctxt "new user poll"
 msgid "Yes, new user!"
-msgstr "Evet, burada yeniyim! "
+msgstr "Evet, buralarda yeniyim! "
 
 #. Option for the filter-by-date search.
 msgid "Yesterday"
@@ -4409,7 +4417,7 @@ msgstr ""
 
 msgctxt "welcome message"
 msgid "You now have the DuckDuckGo extension!"
-msgstr ""
+msgstr "Artık DuckDuckGo eklentisine sahipsiniz!"
 
 msgid ""
 "You now have the tools you need to control your online footprint and take "
@@ -4423,7 +4431,7 @@ msgid "You're in control. Customize the look-and-feel of DuckDuckGo."
 msgstr "Kontrol sizde. DuckDuckGo'nun görünümünü istediğiniz gibi değiştirin."
 
 msgid "You're now searching with privacy!"
-msgstr "Gizlilikle arama yapıyorsunuz!"
+msgstr "Artık gizlilikle arama yapıyorsunuz!"
 
 msgid ""
 "You're now searching with privacy. %sGet tips to reduce your footprint even "
@@ -4433,12 +4441,12 @@ msgstr ""
 "azaltmak için ipuçları alın. "
 
 msgid ""
-"YouTube (owned by Google) does not let you watch videos anonymously. As "
-"such, watching YouTube videos here will be tracked by YouTube/Google."
+"YouTube (owned by Google) does not let you watch videos anonymously. As such,"
+" watching YouTube videos here will be tracked by YouTube/Google."
 msgstr ""
-"YouTube (Google'a ait kendisi) videoları anonim olarak izlemenize izin "
-"vermez. Bu sebeple, videoları buradan izlemeniz YouTube/Google tarafından "
-"takip edilecek."
+"YouTube (Google'a ait olan) videoları anonim olarak izlemenize izin vermez. "
+"Bu sebeple, videoları buradan izlemeniz YouTube/Google tarafından takip "
+"edilecek."
 
 msgid "YouTube Privacy Warning"
 msgstr "YouTube gizlilik uyarısı"
@@ -4456,10 +4464,12 @@ msgid ""
 "Your browser provides the list of most-visited sites. DuckDuckGo never has "
 "access to this data."
 msgstr ""
+"En çok ziyaret edilen siteleri tarayıcınız sağlar. DuckDuckGo'nun bu veriye "
+"erişimi yoktur."
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr "Kişisel bilgileriniz satılığa çıkmasın."
+msgstr "Kişisel bilgileriniz satılık olmamalı."
 
 msgctxt "newsletter email collection"
 msgid ""
@@ -4556,7 +4566,7 @@ msgid "optional"
 msgstr "isteğe bağlı"
 
 #. Used for the <em>color settings</em> into the <a href="https://duckduckgo.com/params.html">URL params page</a> as the last available value for the color parameter.
-#. <em>%s</em> is for a hexadecimal color code as <em>#395323</em>, but it has to be safe encoded, and as <em>#</em> seems not safe, <em>%23</em> must be used in place of the sharp symbol, but they are the same for your browser. 
+#. <em>%s</em> is for a hexadecimal color code as <em>#395323</em>, but it has to be safe encoded, and as <em>#</em> seems not safe, <em>%23</em> must be used in place of the sharp symbol, but they are the same for your browser.
 msgid ""
 "or write out the color code you want, e.g. %s (%s is an encoded %s char)."
 msgstr ""
